@@ -1,9 +1,34 @@
 fileFormatVersion: 2
-guid: d651df05645d4354f962f031a3879fb7
+guid: a4d2cd3a091af774687ee527cb10d1db
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dropship_01_Mat
+    second: {fileID: 2100000, guid: ceacc89730515714ba02cef1afa41521, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dropship_02_Mat
+    second: {fileID: 2100000, guid: 9f6ef4965d08a0e4e9074adc1e848339, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dropship_03_Mat
+    second: {fileID: 2100000, guid: 7a789884b6c7b5d41b87337c5fc29995, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dropship_04_Mat
+    second: {fileID: 2100000, guid: a7569aadde6bf9e40a7068da3b212ad5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dropship_05_Mat
+    second: {fileID: 2100000, guid: 1c4cffe9877845349940f71100042f8f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
